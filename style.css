@@ -1,0 +1,58 @@
+*{
+    box-sizing: border-box;
+}
+
+/* #user-form {
+    display: flex;
+    align-items: center;
+    justify-items: center;    
+    flex-direction: column;
+
+} */
+
+
+
+/* .user-input {
+    width: 150px;
+   
+} */
+/* #user-form#submit{
+    width: 50px;
+} */
+.error { 
+   border-color: red;
+}
+
+#success {
+    border-color: #c3e6cb
+}
+
+.section1 { 
+    background: url(images/cinemaaudience.jpeg) no-repeat center center fixed ;
+    background-size:cover;
+    height: 80vh;
+    width: 100%;
+}
+
+#account:hover{
+    cursor: pointer;
+    
+}
+
+
+
+/* .table{
+    width: 60vw;
+  height: 20vh;
+  margin-bottom: 100px;
+    border: black 1px solid;
+} */
+.member-info{
+    
+    display: none;
+}
+.content-wrapper{
+    display: flex;
+    flex-direction: column;
+}
+
