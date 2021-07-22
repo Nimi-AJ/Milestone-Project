@@ -1,2 +1,2 @@
 # Milestone-Project
-A web page for to record information for members of a movie club
+A web page to record information for members of a movie club
